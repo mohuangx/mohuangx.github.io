@@ -19,7 +19,7 @@ I am broadly interested in applications of statistics
 and machine learning to solve real world problems. My PhD research has been 
 focused on developing and applying statistical methods in the field of 
 genomics, with an emphasis on methods for denoising single-cell RNA
-sequencing.
+sequencing data.
 
 
 
