@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Mo Huang
 email: mohuangx@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
 Hi there! My name is Mo Huang and I'm a 5th year PhD candidate in Statistics at
 The Wharton School of the University of Pennsylvania. I'm expecting to graduate
 in 2020.

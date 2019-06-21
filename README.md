@@ -1,2 +1,1 @@
-# mohuangx.github.io
-Personal Website
+# Personal website
