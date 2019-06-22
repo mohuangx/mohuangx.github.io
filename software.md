@@ -9,5 +9,6 @@ permalink: /software/
 [Github](https://github.com/mohuangx){:target="_blank"}
 
 * SAVER: Single-Cell RNA-Seq Gene Expression Recovery 
-[[Github](https://github.com/mohuangx/SAVER){:target="_blank"}]
+[[Website](https://mohuangx.github.io/SAVER/){:target="_blank"}]
 [[CRAN](https://cran.r-project.org/web/packages/SAVER/index.html){:target="_blank"}]
+[[Github](https://github.com/mohuangx/SAVER){:target="_blank"}]
