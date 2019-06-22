@@ -7,7 +7,7 @@ title:
 permalink: /
 ---
 
-<center><img src="/assets/img/alpaca.png"></center>  
+<center><img src="/assets/img/alpaca.png" width="180" height="180"></center>  
 <br/>
   
   
