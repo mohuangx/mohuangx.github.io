@@ -4,17 +4,21 @@ title: CV
 permalink: /CV/
 ---
 
+## Curriculum Vitae
+
 [[PDF version]](/downloads/cv.pdf){:target="_blank"}
+
 
 <h2 style="text-align: center;font-weight:bold">
 Mo Huang
 </h2>
 
-<h4 style="text-align: center;">
+<h4 style="text-align: center;font-weight:normal">
 PhD Candidate<br>
 Department of Statistics<br>
 The Wharton School, University of Pennsylvania<br>
 Email: mohuangx@gmail.com<br>
+Website: mohuangx@github.io<br>
 Last Updated: June 2019
 </h4>
 
