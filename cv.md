@@ -6,7 +6,7 @@ permalink: /CV/
 
 ## Curriculum Vitae
 
-[[PDF version]](/downloads/cv.pdf){:target="_blank"}
+[[PDF version]](/downloads/CV - Mo Huang.pdf){:target="_blank"}
 
 
 <h2 style="text-align: center;font-weight:bold">
