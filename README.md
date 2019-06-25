@@ -1,3 +1,3 @@
 # Personal website
 
-[mohuangx.github.io](https://mohuangx.github.io){:target="_blank"}
+<a href="https://mohuangx.github.io" target="_blank">mohuangx.github.io</a>
