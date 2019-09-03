@@ -19,7 +19,7 @@ Department of Statistics<br>
 The Wharton School, University of Pennsylvania<br>
 Email: mohuangx@gmail.com<br>
 Website: mohuangx.github.io<br>
-Last Updated: June 2019
+Last Updated: September 2019
 </h4>
 
 ### **Education**
@@ -56,6 +56,9 @@ National Institutes of Health
 <!---
 ### **Publications**
 
+* Wang, J., Agarwal, D., **Huang, M.**, Hu, G., Zhou, Z., Ye, C., Zhang, N.R. (2019).
+Data Denoising with transfer learning in single-cell transcriptomics. *Nature Methods, 16*(9), 875-878.
+
 * **Huang, M.**, Wang, J., Torre, E., Dueck, H., Shaffer, S., Bonasio, R., … Zhang, N. R. (2018). 
 SAVER: Gene expression recovery for single-cell RNA sequencing. *Nature Methods, 15*(7), 539–542.
 
@@ -87,6 +90,7 @@ and procaspases through adjacent surfaces.
 
 ### **Presentations**
 
+* Joint Statistical Meetings, July 2019
 * Joint Statistical Meetings, July 2018
 * American Society of Human Genetics Meeting, October 2017
 

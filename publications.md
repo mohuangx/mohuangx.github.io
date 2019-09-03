@@ -8,6 +8,9 @@ permalink: /publications/
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=OjWWwHgAAAAJ){:target="_blank"}
 
+* Wang, J., Agarwal, D., **Huang, M.**, Hu, G., Zhou, Z., Ye, C., Zhang, N.R. (2019).
+Data Denoising with transfer learning in single-cell transcriptomics. *Nature Methods, 16*(9), 875-878.
+
 * **Huang, M.**, Wang, J., Torre, E., Dueck, H., Shaffer, S., Bonasio, R., … Zhang, N. R. (2018). 
 SAVER: Gene expression recovery for single-cell RNA sequencing. *Nature Methods, 15*(7), 539–542.
 
