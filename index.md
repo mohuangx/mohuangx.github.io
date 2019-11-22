@@ -13,13 +13,14 @@ permalink: /
   
 Hi there! My name is Mo Huang and I'm a 5th year PhD candidate in Statistics at
 The Wharton School of the University of Pennsylvania. I'm expecting to graduate
-in 2020.
+in May 2020. 
 
-I am broadly interested in applications of statistics
-and machine learning to solve real world problems. My PhD research has been 
-focused on developing and applying statistical methods in the field of 
-genomics, with an emphasis on methods for denoising single-cell RNA
-sequencing data.
+My PhD research has been focused on developing and applying 
+statistical methods in the field of genomics, with an emphasis on methods for 
+denoising single-cell RNA sequencing data. I'm also interested in statistical
+computing, machine learning and deep learning, and applications in biology and 
+healthcare.
 
-
+I'm currently looking for opportunities in the fields of life sciences, data 
+science, and health tech.
 

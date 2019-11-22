@@ -19,12 +19,12 @@ Department of Statistics<br>
 The Wharton School, University of Pennsylvania<br>
 Email: mohuangx@gmail.com<br>
 Website: mohuangx.github.io<br>
-Last Updated: September 2019
+Last Updated: November 2019
 </h4>
 
 ### **Education**
 
-* **Ph.D. Statistics**, The Wharton School, University of Pennsylvania, 2020 (Expected)  
+* **Ph.D. Statistics**, The Wharton School, University of Pennsylvania, May 2020 (Expected)  
 Advisor: Nancy R. Zhang
 
 * **B.A. Mathematics**, Washington University in St. Louis, 2015
@@ -49,6 +49,7 @@ National Institutes of Health
 
 ### **Honors and Awards**
 
+* Donald S. Murray Prize for Excellence in Teaching, 2019
 * NSF Graduate Fellowship, 2016 -- 2019
 * Judith & William Bollinger Fellowship, 2018
 * Florence Moog Fellowship in Biological Sciences, 2011 -- 2015
