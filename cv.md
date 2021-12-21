@@ -10,30 +10,33 @@ permalink: /CV/
 
 
 <h2 style="text-align: center;font-weight:bold">
-Mo Huang
+Mo Huang, Ph.D.
 </h2>
 
 <h4 style="text-align: center;font-weight:normal">
-PhD Candidate<br>
-Department of Statistics<br>
-The Wharton School, University of Pennsylvania<br>
+Senior Scientist, Biostatistics<br>
+Merck<br>
 Email: mohuangx@gmail.com<br>
 Website: mohuangx.github.io<br>
-Last Updated: November 2019
+Last Updated: December 2021
 </h4>
 
 ### **Education**
 
-* **Ph.D. Statistics**, The Wharton School, University of Pennsylvania, May 2020 (Expected)  
+* **Ph.D. Statistics**, The Wharton School, University of Pennsylvania, 2020  
 Advisor: Nancy R. Zhang
 
 * **B.A. Mathematics**, Washington University in St. Louis, 2015
 
 ### **Experience**
 
+* **Senior Scientist, Biostatistics**  
+Merck  
+*2020 -- Present*
+
 * **PhD Candidate**  
 Department of Statistics, The Wharton School, University of Pennsylvania  
-*2015 -- Present*
+*2015 -- 2020*
 
 * **Biostatistics Summer Intern**  
 Genentech  
@@ -54,8 +57,18 @@ National Institutes of Health
 * Judith & William Bollinger Fellowship, 2018
 * Florence Moog Fellowship in Biological Sciences, 2011 -- 2015
 
-<!---
 ### **Publications**
+
+* Reeder J., **Huang, M.**, Kamingker, J.S., Paulson, J.N. (2021).
+*MicrobiomeExplorer*: an R package for the analysis and visualization of microbial communities.
+*Bioinformatics, 37* (9), 1317-1318.
+
+* **Huang, M.** (2020).
+A Statistical Framework for Denoising Single-cell RNA Sequencing Data (Dissertation). *PQDT-UK & Ireland*.
+
+* **Huang, M.**, Zhang, Z., Zhang, N.R. (2020).
+Dimension reduction and denoising of single-cell RNA sequencing data in the presence of observed confounding variables.
+*bioRxiv*.
 
 * Wang, J., Agarwal, D., **Huang, M.**, Hu, G., Zhou, Z., Ye, C., Zhang, N.R. (2019).
 Data Denoising with transfer learning in single-cell transcriptomics. *Nature Methods, 16*(9), 875-878.
@@ -87,7 +100,6 @@ Structure of the caspase-recruitment domain from a zebrafish guanylate-binding p
 The structure of the CARD8 caspase-recruitment domain suggests its association with the FIIND domain 
 and procaspases through adjacent surfaces. 
 *Acta Crystallographica Section F Structural Biology and Crystallization Communications, 69*(5), 482–487. 
---->
 
 ### **Presentations**
 

@@ -11,16 +11,14 @@ permalink: /
 <br/>
   
   
-Hi there! My name is Mo Huang and I'm a 5th year PhD candidate in Statistics at
-The Wharton School of the University of Pennsylvania. I'm expecting to graduate
-in May 2020. 
+Hi there! My name is Mo Huang and I'm a Senior Scientist in Biostatistics at 
+Merck working on early oncology clinical trials and biomarkers.
 
-My PhD research has been focused on developing and applying 
+I received a PhD in Statistics at The Wharton School of the University of Pennsylvania.
+My research was focused on developing and applying 
 statistical methods in the field of genomics, with an emphasis on methods for 
-denoising single-cell RNA sequencing data. I'm also interested in statistical
-computing, machine learning and deep learning, and applications in biology and 
-healthcare.
+denoising single-cell RNA sequencing data. 
 
-I'm currently looking for opportunities in the fields of life sciences, data 
-science, and health tech.
+I also have interests in data science, machine learning and deep learning, 
+and applied statistical problems in biology and healthcare.
 
