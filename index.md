@@ -11,7 +11,7 @@ permalink: /
 <br/>
   
   
-Hi there! My name is Mo Huang and I'm a Senior Scientist in Biostatistics at 
+Hi there! My name is Mo Huang and I'm an Associate Principal Scientist in Biostatistics at 
 Merck working on early oncology clinical trials and biomarkers.
 
 I received a PhD in Statistics at The Wharton School of the University of Pennsylvania.

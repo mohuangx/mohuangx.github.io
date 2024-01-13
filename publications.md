@@ -8,7 +8,11 @@ permalink: /publications/
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=OjWWwHgAAAAJ){:target="_blank"}
 
-* Reeder J., **Huang, M.**, Kamingker, J.S., Paulson, J.N. (2021).
+* **Huang, M.**, Chen, C., Sun, L.Z. (2023).
+Statistical Interpretation and Comparison of Waterfall Plots.
+*JCO Clinical Cancer Informatics, 7*, e2300132
+
+* Reeder J., **Huang, M.**, Kaminker, J.S., Paulson, J.N. (2021).
 *MicrobiomeExplorer*: an R package for the analysis and visualization of microbial communities.
 *Bioinformatics, 37* (9), 1317-1318.
 
